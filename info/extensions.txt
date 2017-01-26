@@ -1,0 +1,9 @@
+avi
+mov
+qt
+avchd
+flv
+swf
+mpg
+mp4
+wmv
