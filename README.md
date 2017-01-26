@@ -4,7 +4,7 @@ be used to create or alter videos.
 
 I created this program with the OpenCV library in mind. I found it difficult to
 find video file extensions (containers) and codec pairs that would allow me to
-successfully write video files using the OpenCV library. Thus I make this
+successfully write video files using the OpenCV library. Thus I made this
 program to do all the work for you. You simply run the "start.py" file, it
 will do all the processing for you and will write to the "info/results.txt"
 file, you can then check this file to see which container codec pairs your
